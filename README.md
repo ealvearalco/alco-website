@@ -1,4 +1,3 @@
-# Luz Ecuador app
+# CAD app
 
-This is the website repository for Luz Ecuador app
- 
+Placeholder website for CAD
